@@ -1,0 +1,3 @@
+[submodule "mturk-manager"]
+	path = mturk-manager
+	url = git@github.com:webis-de/mturk-manager.git
